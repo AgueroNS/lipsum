@@ -1,7 +1,7 @@
 ## Instructions
 * Clone repository
 * Create a branch from `master`
-* Add in this file a __Lorem Ipsum__ paragraph
+* Add a [Lorem Ipsum](https://www.lipsum.com/) paragraph
 * `git add` > `git commit` > `git push`
 * Create a Pull Request (Add `@AgueroNS` as reviewer)
 * Merge branch (Resolve conflicts)
