@@ -1,9 +1,11 @@
 ## Instructions
 * Clone repository
-* Create a branch from `master`
+* Create a branch from `master`. (NameFormat: Paragraph##)
 * Add a [Lorem Ipsum](https://www.lipsum.com/) paragraph
 * `git add` > `git commit` > `git push`
-* Create a Pull Request (Add `@AgueroNS` as reviewer)
+* Create a Pull Request 
+  * NameFormat: Paragraph##
+  * Add `@AgueroNS` as reviewer
 * Merge branch (Resolve conflicts)
 * Delete branch 
 
