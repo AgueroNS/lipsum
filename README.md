@@ -18,4 +18,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In scelerisque dolor ma
 ---
 
 # Lorem Ipsum
+
+## Paragraph 08 by @PalaviciniAndres
+Nulla elit lacus, blandit sit amet ex eu, dictum lobortis arcu. Ut non turpis at quam condimentum dignissim. Aliquam finibus nisl a eros pharetra, a molestie mi placerat. Proin convallis nunc ut vulputate gravida. Sed hendrerit vitae massa in tempus. Donec sit amet laoreet ex. Proin laoreet elementum convallis. Vivamus id nulla vitae lectus mollis eleifend. Nulla vitae consectetur libero.
+
 Add your paragraph after this
