@@ -3,11 +3,11 @@
 * Create a branch from `master`. (NameFormat: Paragraph##)
 * Add a [Lorem Ipsum](https://www.lipsum.com/) paragraph into this file `README.md`
 * `git add` > `git commit` > `git push`
-* Create a Pull Request 
+* Create a Pull Request
   * NameFormat: Paragraph##
   * Add `@AgueroNS` as reviewer
 * Merge branch (Resolve conflicts)
-* Delete branch 
+* Delete branch
 
 ## Example
 ---
@@ -25,5 +25,7 @@ Nunc hendrerit, leo eget pellentesque condimentum, metus dolor auctor enim, eget
 ## Paragraph 08 by @PalaviciniAndres
 Nulla elit lacus, blandit sit amet ex eu, dictum lobortis arcu. Ut non turpis at quam condimentum dignissim. Aliquam finibus nisl a eros pharetra, a molestie mi placerat. Proin convallis nunc ut vulputate gravida. Sed hendrerit vitae massa in tempus. Donec sit amet laoreet ex. Proin laoreet elementum convallis. Vivamus id nulla vitae lectus mollis eleifend. Nulla vitae consectetur libero.
 
-Add your paragraph after this
+## Paragraph 13 by @mcorona-ns
+Nullam porta commodo sapien a viverra. Mauris mollis interdum nulla, bibendum aliquet felis accumsan nec. Suspendisse vitae ex mauris. In sagittis metus non tristique mattis. Fusce pretium quam sed tortor pulvinar tempor. Donec non mauris eget quam hendrerit mollis vehicula quis enim. Duis vitae libero dictum, tempor ligula ut, pharetra tortor. Integer tincidunt ex sed lobortis malesuada. Fusce consectetur, lacus vel fringilla bibendum, magna sem semper libero, nec efficitur magna tellus in velit. Cras in mauris scelerisque, porttitor nibh eget, sollicitudin urna. In quis rutrum urna. Suspendisse vitae nunc varius, viverra neque quis, ultricies dolor. Sed lobortis pulvinar arcu, sed tincidunt est faucibus sed. Mauris diam dolor, laoreet sed pharetra scelerisque, accumsan at mauris. Sed nec magna ac dui rhoncus pulvinar id eu lacus.
 
+Add your paragraph after this
