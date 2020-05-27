@@ -16,6 +16,8 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In scelerisque dolor maximus massa egestas, nec varius est sodales. Donec fermentum tellus vitae tortor varius, ac scelerisque lacus sollicitudin. Suspendisse tempus magna ac elit posuere, in sodales massa bibendum. Duis tortor odio, aliquam quis tempor a, ultricies in ligula. Fusce luctus sit amet urna et bibendum. Phasellus dignissim metus magna, quis placerat lectus sollicitudin ac. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi hendrerit ut mi vel efficitur. Vivamus molestie, justo a aliquam gravida, elit urna maximus massa, nec venenatis nulla erat consectetur tellus.
 
 ---
+## Paragraph 02 by 'rodolfopacheco'
+Donec condimentum, justo ut rhoncus facilisis, purus erat lacinia nulla, sed cursus odio leo nec ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Quisque ultrices sagittis nisl finibus tristique. Etiam non odio sed magna luctus congue. Quisque condimentum bibendum metus nec porttitor. Etiam eleifend placerat magna. Aliquam eget felis vehicula, aliquam nibh a, vehicula est. Curabitur nec lacinia lectus, eu sodales purus. Ut vel urna id enim suscipit convallis sed viverra arcu. Curabitur sed blandit sapien. Maecenas sed nulla vitae velit porta pulvinar vel nec urna. Ut non risus vel lorem mattis finibus. Sed id lacus consectetur, gravida lectus sit amet, gravida justo.
 
 # Lorem Ipsum
 
