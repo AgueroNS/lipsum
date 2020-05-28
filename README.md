@@ -29,3 +29,6 @@ Add your paragraph after this
 
 ## Paragraph 10 by @luisdavidme
 Quisque sollicitudin et enim in condimentum. Vivamus imperdiet neque leo, vitae sodales ipsum mattis et. Ut quis erat sodales, malesuada arcu a, venenatis nunc. Aliquam et posuere ante, eu tristique eros. Mauris ac odio ac nulla accumsan bibendum. In hac habitasse platea dictumst. Donec vel est urna. Nam condimentum finibus ante, ac placerat risus placerat sed. Pellentesque ultricies dapibus mi, quis sodales lorem finibus non. Vivamus a leo a tortor eleifend gravida. Mauris quis luctus odio, a ornare tellus. Quisque at ante sit amet ex iaculis lacinia. Cras purus dolor, ultrices sodales orci eu, pretium blandit nisi. Vestibulum sed velit vitae dui gravida pharetra eu id urna.
+
+## Paragraph 12 by @jcontrerasmedina
+Vivamus condimentum dapibus nunc vel molestie. Duis fringilla cursus sem, et accumsan mi condimentum non. Proin sed elit vitae orci mattis tempus. Maecenas eget nibh eros. Integer vulputate arcu ac turpis luctus lobortis. Sed aliquet vel turpis id dignissim. Proin mauris arcu, tincidunt nec tempus a, sodales vel nibh. Cras ultricies nibh convallis lacus hendrerit accumsan. Donec vehicula eu turpis vel placerat. Nunc volutpat orci vitae interdum tincidunt. Fusce et libero dapibus, ullamcorper ligula et, accumsan libero. Proin sollicitudin mattis sagittis.
