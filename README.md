@@ -19,7 +19,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In scelerisque dolor ma
 
 # Lorem Ipsum
 
-> Adding text to create `merge conflic` for `rodolfopacheco`
+## Paragraph 02 by 'rodolfopacheco'
+Donec condimentum, justo ut rhoncus facilisis, purus erat lacinia nulla, sed cursus odio leo nec ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Quisque ultrices sagittis nisl finibus tristique. Etiam non odio sed magna luctus congue. Quisque condimentum bibendum metus nec porttitor. Etiam eleifend placerat magna. Aliquam eget felis vehicula, aliquam nibh a, vehicula est. Curabitur nec lacinia lectus, eu sodales purus. Ut vel urna id enim suscipit convallis sed viverra arcu. Curabitur sed blandit sapien. Maecenas sed nulla vitae velit porta pulvinar vel nec urna. Ut non risus vel lorem mattis finibus. Sed id lacus consectetur, gravida lectus sit amet, gravida justo.
 
 ## Paragraph 07 by @LemmaRivera
 Nunc hendrerit, leo eget pellentesque condimentum, metus dolor auctor enim, eget gravida lorem metus ac est. Nullam sed diam at lacus rhoncus tristique at sed nisi. Ut molestie turpis at mattis interdum. Cras condimentum consectetur diam ut ultrices. Sed et euismod nulla, sit amet rutrum elit. Integer viverra turpis eget nulla eleifend, ut facilisis justo dapibus. Donec bibendum, orci eget vulputate vulputate, odio mauris pharetra magna, vel facilisis tortor nunc vitae dui. Fusce id justo libero. Etiam non orci fringilla, rhoncus erat eget, gravida ex. Vivamus dolor velit, egestas ut scelerisque vel, laoreet vitae neque. Aenean eu scelerisque diam. Ut tristique tortor nec porta ultricies. Aliquam nec felis et metus venenatis convallis. Donec orci leo, malesuada eget rhoncus in, feugiat non augue.
