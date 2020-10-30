@@ -26,7 +26,7 @@ Donec condimentum, justo ut rhoncus facilisis, purus erat lacinia nulla, sed cur
 
 > Add Paragraph 03 here
 
-> Add Paragraph 04 here
+> Adding text to create `merge conflic` for `ncalzadillas`
 
 > Add Paragraph 05 here
 
