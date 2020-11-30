@@ -26,7 +26,8 @@ Donec condimentum, justo ut rhoncus facilisis, purus erat lacinia nulla, sed cur
 
 > Add Paragraph 03 here
 
-> Adding text to create `merge conflic` for `ncalzadillas`
+## Paragraph 04 by 'ncalzadillas'
+Duis quis maximus mi. Donec laoreet arcu et elit convallis fermentum. Quisque quis dapibus massa. Nunc finibus aliquet imperdiet. Donec tempus quam sed neque aliquet, sed accumsan velit hendrerit. Vivamus dignissim eget tortor quis rutrum. Pellentesque tincidunt elit eu erat feugiat posuere ac ac lectus. Proin tincidunt nibh sed sapien vulputate, ut tristique eros convallis. Nulla facilisi. Maecenas fringilla augue vitae tristique iaculis. In at imperdiet libero. Duis at est cursus, auctor nisl eu, gravida ante.
 
 > Add Paragraph 05 here
 
